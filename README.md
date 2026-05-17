@@ -40,14 +40,6 @@ An open-source system that generates ACARA v9–aligned mathematics resources fo
 
 ---
 
-### 📊 GitHub Stats
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Brando&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Brando&layout=compact&hide_border=true&theme=default&langs_count=8)
-
----
-
 ### 🌍 Working remotely from Brazil
 
 **English C2** · Portuguese native · Comfortable with **AEST / EST / CET** overlap.
